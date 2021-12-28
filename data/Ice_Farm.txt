@@ -1,0 +1,27 @@
++----------------------+-------+---------+----------------+
+| Material List for schematic 'Ice farm' (1 of 1 regions) |
++----------------------+-------+---------+----------------+
+| Item                 | Total | Missing |      Available |
++----------------------+-------+---------+----------------+
+| Ice                  | 16476 |   16476 |              0 |
+| Water Bucket         |  3153 |    3153 |              0 |
+| Oak Sign             |  1411 |    1411 |              0 |
+| Quartz Slab          |   130 |     130 |              0 |
+| White Concrete       |    12 |      12 |              0 |
+| Chest                |     6 |       6 |              0 |
+| Redstone Dust        |     5 |       5 |              0 |
+| Redstone Comparator  |     4 |       4 |              0 |
+| Hopper               |     3 |       3 |              0 |
+| Dropper              |     2 |       2 |              0 |
+| Stone Button         |     2 |       2 |              0 |
+| Dispenser            |     1 |       1 |              0 |
+| Light Blue Wool      |     1 |       1 |              0 |
+| Observer             |     1 |       1 |              0 |
+| Piston               |     1 |       1 |              0 |
+| Redstone Repeater    |     1 |       1 |              0 |
+| Stone Pressure Plate |     1 |       1 |              0 |
+| Warped Fence         |     1 |       1 |              0 |
+| Warped Planks        |     1 |       1 |              0 |
++----------------------+-------+---------+----------------+
+| Item                 | Total | Missing |      Available |
++----------------------+-------+---------+----------------+
